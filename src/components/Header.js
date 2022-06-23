@@ -5,7 +5,7 @@ const Header = (props) => {
 	<>
 		<div className='row d-flex justify-content-center'>
 			<div className='col col-md-2'>
-				<h1>MyMovies - test</h1>
+				<h1>MyMovies</h1>
 			</div>
 		</div>
 		<div className='row d-flex justify-content-center'>
